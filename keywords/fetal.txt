@@ -1,0 +1,11 @@
+fetal*
+feto*
+fetus*
+foetal*
+foetu*
+prenatal*
+perinatal*
+antenatal*
+intrauterin*
+embryopath*
+"in utero"
