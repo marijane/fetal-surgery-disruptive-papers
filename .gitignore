@@ -2,4 +2,4 @@ old/
 parking/
 target/
 *venv/
-*.log
+*log*
