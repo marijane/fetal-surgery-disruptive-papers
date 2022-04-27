@@ -1,4 +1,4 @@
-hedges/
 parking/
 target/
 *venv/
+*.log
