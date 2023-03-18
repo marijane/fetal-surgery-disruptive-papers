@@ -1,5 +1,0 @@
-"Specialties, Surgical"[mh]
-"Surgical Procedures, Operative"[mh]
-"Surgical Equipment"[mh]
-"Surgeons"[mh]
-"surgery"[sh]
